@@ -68,6 +68,7 @@ public class MainActivity extends AppCompatActivity {
             tVResult.setText(str);
         }
     }
+    //되나
 
 
 
